@@ -1,0 +1,5 @@
+add_subdirectory(CityData)
+add_subdirectory(ConfigParser)
+add_subdirectory(DataManipulator)
+add_subdirectory(ProgramManipulator)
+

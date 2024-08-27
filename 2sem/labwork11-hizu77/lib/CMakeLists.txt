@@ -1,0 +1,6 @@
+add_subdirectory(FilesHeader)
+add_subdirectory(IndexManager)
+add_subdirectory(OperationController)
+add_subdirectory(ProgramManager)
+add_subdirectory(SearchManager)
+add_subdirectory(varint)
